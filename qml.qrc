@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>images/background.png</file>
+        <file>ItemPicture.qml</file>
+        <file>images/shadow.png</file>
+        <file>FileBrowser.qml</file>
+        <file>images/up.png</file>
+        <file>images/folder.png</file>
+        <file>images/close.png</file>
+        <file>fonts/IRANSansMobile.ttf</file>
+    </qresource>
+</RCC>
